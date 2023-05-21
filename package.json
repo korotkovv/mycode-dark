@@ -38,6 +38,11 @@
 				"label": "MyCode Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/myCodeDark-color-theme.json"
+			},
+			{
+				"label": "MyCode Dark Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/myCodeDark-color-theme-blue.json"
 			}
 		]
 	}

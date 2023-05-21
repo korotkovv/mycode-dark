@@ -2,10 +2,14 @@
 
 ---
 
-## [0.1.1]
+## [0.3.0]
 
 - Update colors
 - Add blue theme
+
+## [0.2.0]
+
+- Update colors
 
 ## [0.1.0]
 
