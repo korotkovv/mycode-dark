@@ -1,13 +1,36 @@
 {
 	"name": "mycode-dark",
 	"displayName": "MyCode Dark",
-	"description": "",
+	"description": "MyCode Dark VS Code themes",
 	"version": "0.0.1",
+	"publisher": "KorotkovVitaliy",
+	"author": {
+		"name": "Korotkov Vitaliy",
+		"email": "korotkov.vitalii@gmail.com"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/korotkovv/mycode-dark"
+	},
+	"homepage": "https://github.com/korotkovv/mycode-dark",
+	"bugs": {
+		"url": "https://github.com/korotkovv/mycode-dark/issues",
+		"email": "korotkov.vitalii@gmail.com"
+	},
 	"engines": {
 		"vscode": "^1.78.0"
 	},
 	"categories": [
 		"Themes"
+	],
+	"icon": "icon.png",
+	"keywords": [
+		"theme",
+		"material",
+		"dark",
+		"one dark",
+		"customization"
 	],
 	"contributes": {
 		"themes": [

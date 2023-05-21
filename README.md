@@ -1,5 +1,7 @@
 # MyCode Dark VS Code themes
 
+![](icon.png?raw=true)
+
 ## Install
 
 - Go to VS Marketplace.
