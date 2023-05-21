@@ -19,7 +19,7 @@
 		"email": "korotkov.vitalii@gmail.com"
 	},
 	"engines": {
-		"vscode": "^1.78.0"
+		"vscode": "^1.70.0"
 	},
 	"categories": [
 		"Themes"
